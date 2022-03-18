@@ -159,11 +159,11 @@ public class IssueBook extends javax.swing.JFrame {
 
         jLabel18.setText("---");
 
-        jLabel12.setText("Branch");
+        jLabel12.setText("Phone Number");
 
         jLabel16.setText("---");
 
-        jLabel11.setText("Course");
+        jLabel11.setText("Year");
 
         jLabel14.setText("Student ID");
 
@@ -244,7 +244,7 @@ public class IssueBook extends javax.swing.JFrame {
                         .addComponent(jPanel2, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
                         .addGap(0, 0, Short.MAX_VALUE))
                     .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jPanel3Layout.createSequentialGroup()
-                        .addGap(0, 78, Short.MAX_VALUE)
+                        .addGap(0, 0, Short.MAX_VALUE)
                         .addGroup(jPanel3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                             .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jPanel3Layout.createSequentialGroup()
                                 .addComponent(jLabel19)
