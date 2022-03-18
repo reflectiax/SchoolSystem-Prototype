@@ -57,7 +57,7 @@ public class ReturnBook extends javax.swing.JFrame {
 
         jPanel1.setBorder(javax.swing.BorderFactory.createTitledBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0), 2), "Student Details", javax.swing.border.TitledBorder.DEFAULT_JUSTIFICATION, javax.swing.border.TitledBorder.DEFAULT_POSITION, new java.awt.Font("Tahoma", 0, 18))); // NOI18N
 
-        jLabel11.setText("Course");
+        jLabel11.setText("Year");
 
         jLabel15.setText("---");
 
@@ -67,7 +67,7 @@ public class ReturnBook extends javax.swing.JFrame {
 
         jLabel18.setText("---");
 
-        jLabel12.setText("Branch");
+        jLabel12.setText("Phone Number");
 
         jLabel10.setText("Name");
 

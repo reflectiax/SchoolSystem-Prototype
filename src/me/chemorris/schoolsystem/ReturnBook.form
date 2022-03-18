@@ -191,7 +191,7 @@
             </Component>
             <Component class="javax.swing.JLabel" name="jLabel11">
               <Properties>
-                <Property name="text" type="java.lang.String" value="Course"/>
+                <Property name="text" type="java.lang.String" value="Year"/>
               </Properties>
             </Component>
             <Component class="javax.swing.JLabel" name="jLabel15">
@@ -216,7 +216,7 @@
             </Component>
             <Component class="javax.swing.JLabel" name="jLabel12">
               <Properties>
-                <Property name="text" type="java.lang.String" value="Branch"/>
+                <Property name="text" type="java.lang.String" value="Phone Number"/>
               </Properties>
             </Component>
             <Component class="javax.swing.JLabel" name="jLabel10">
